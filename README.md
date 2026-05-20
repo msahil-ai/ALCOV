@@ -80,9 +80,6 @@ python multi_object.py
 
 ---
 
-*Developed by [Md Sahil*](https://www.google.com/search?q=https://github.com/msahil-ai)
+*Developed by [Md Sahil*](https://www.linkedin.com/in/mdsahil1/)
 
-```
-
-```
 
